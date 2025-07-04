@@ -19,6 +19,12 @@
 
 This project is currently in active development.
 
+## Credits
+
+This game was made by following this excellent tutorial by **Backeys**:   
+[How to make a Video Game - Godot Beginner Tutorial](https://youtu.be/LOhfqjmasi0)
+
+Big thanks to the tutorial creator for making things simple for poor souls like you trying to learn game dev.
 
 ## How to Run
 
