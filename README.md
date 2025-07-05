@@ -1,6 +1,6 @@
-# Pixel Coin Collector
+# Pixel Coin Hunting
 
-**Pixel Coin Collector** is a fast-paced 2D arcade-style game built with the **Godot Engine**. Play as a pixelated hero on a mission to grab as many coins as possible while dodging obstacles and enemies. With retro visuals, tight controls, and addictive gameplay, it's a coin-chasing rush from start to finish!
+**Pixel Coin Hunting** is a fast-paced 2D arcade-style game built with the **Godot Engine**. Play as a pixelated hero on a mission to grab as many coins as possible while dodging obstacles and enemies. With retro visuals, tight controls, and addictive gameplay, it's a coin-chasing rush from start to finish!
 
 ## Features
 
@@ -12,8 +12,8 @@
 ## Tech Stack
 
 - **Engine:** Godot (GDScript)
-- **Art:** Pixel Art (open assets)
-- **Audio:** SFX & music (open assets)
+- **Art:** Pixel Art (Backeys)
+- **Audio:** SFX & music (Backeys)
 
 ## Status
 
