@@ -28,8 +28,8 @@ Big thanks to the tutorial creator for making things simple for poor souls like 
 
 ## How to Run
 
-1. Navigate to the [Releases](https://github.com/A7iT/pixel-coin-collector/releases) page.
-2. Download the latest `.exe` file.
-3. Run the executable — no installation needed.
+- Navigate to the [Releases](https://github.com/A7iT/pixel-coin-collector/releases) page.
+- Download the latest `.exe` file.
+- Run the executable — no installation needed.
 
 ## ENJOY!
